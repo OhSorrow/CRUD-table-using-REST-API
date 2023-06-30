@@ -79,9 +79,9 @@ $(document).ready(function () {
     // Get form fields values
     var firstName = $("#firstName").val();
     var lastName = $("#lastName").val();
-    var age = $("#age").val();
+    var age = parseInt($("#age").val());
     var email = $("#email").val();
-    var salary = $("#salary").val();
+    var salary = parseFloat($("#salary").val());
     var date = $("#date").val();
 
     // Check if any required field is empty
@@ -165,9 +165,9 @@ $(document).ready(function () {
     var updatedData = {
       firstName: modal.find("#firstName").val(),
       lastName: modal.find("#lastName").val(),
-      age: modal.find("#age").val(),
+      age: parseInt(modal.find("#age").val()),
       email: modal.find("#email").val(),
-      salary: modal.find("#salary").val(),
+      salary: parseFloat(modal.find("#salary").val()),
       date: modal.find("#date").val(),
     };
 
