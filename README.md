@@ -6,6 +6,7 @@ This is a CRUD (Create, Read, Update, Delete) application for managing employee 
 
 - [Employee Management App](#employee-management-app)
   - [Table of Contents](#table-of-contents)
+  - [Live Version](#live-version)
   - [Installation](#installation)
   - [Usage](#usage)
     - [Adding a New Employee](#adding-a-new-employee)
@@ -14,6 +15,10 @@ This is a CRUD (Create, Read, Update, Delete) application for managing employee 
   - [Contributing](#contributing)
   - [License](#license)
   - [Contact](#contact)
+
+## Live Version
+
+You can access the live version of the app at: [ohsorrow.me/CRUD-table-using-REST-API](https://ohsorrow.me/CRUD-table-using-REST-API/).
 
 ## Installation
 
