@@ -1,6 +1,6 @@
 # Employee Management App
 
-This is a CRUD (Create, Read, Update, Delete) application for managing employee data.
+This is a CRUD (Create, Read, Update, Delete) application for managing employee data. 💼📝👥
 
 ## Table of Contents
 
@@ -18,14 +18,14 @@ This is a CRUD (Create, Read, Update, Delete) application for managing employee 
 
 ## Live Version
 
-You can access the live version of the app at: [ohsorrow.me/CRUD-table-using-REST-API](https://ohsorrow.me/CRUD-table-using-REST-API/).
+You can access the live version of the app at: [ohsorrow.me/CRUD-table-using-REST-API](https://ohsorrow.me/CRUD-table-using-REST-API/). 🌐
 
 ## Installation
 
 To install and run the application locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your/repository.git`
-2. Open the `index.html` file in your web browser.
+1. Clone the repository: `git clone https://github.com/your/repository.git` 📥
+2. Open the `index.html` file in your web browser. 🌐
 
 ## Usage
 
@@ -33,34 +33,34 @@ To install and run the application locally, follow these steps:
 
 To add a new employee, follow these steps:
 
-1. Click on the "New" button.
-2. Fill in the required information in the modal dialog that appears.
-3. Click the "Save" button to save the employee.
+1. Click on the "New" button. ➕
+2. Fill in the required information in the modal dialog that appears. 📝
+3. Click the "Save" button to save the employee. 💾
 
 ### Editing an Employee
 
 To edit an existing employee, follow these steps:
 
-1. Click on the employee row in the table that you want to edit.
+1. Click on the employee row in the table that you want to edit. ✏️
 2. The employee information will be populated in the edit modal dialog.
-3. Modify the employee details as needed.
-4. Click the "Save" button to save the changes.
+3. Modify the employee details as needed. 📝
+4. Click the "Save" button to save the changes. 💾
 
 ### Deleting an Employee
 
 To delete an employee, follow these steps:
 
-1. Click on the employee row in the table that you want to delete.
+1. Click on the employee row in the table that you want to delete. ❌
 2. A confirmation dialog will appear.
-3. Click the "Delete" button to remove the employee from the system.
+3. Click the "Delete" button to remove the employee from the system. 🗑️
 
 ## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
+Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request. 🙌
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE). 📃
 
 ## Contact
 
@@ -68,7 +68,7 @@ If you have any questions or need assistance, feel free to contact the project m
 
 Aram
 
-- GitHub: [https://github.com/ohsorrow](https://github.com/ohsorrow)
+- GitHub: [https://github.com/ohsorrow](https://github.com/ohsorrow) 📧
 
 ---
 
